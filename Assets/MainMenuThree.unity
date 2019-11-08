@@ -809,7 +809,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Slenderbull
+  m_Text: Wild Chase
 --- !u!222 &1917551364
 CanvasRenderer:
   m_ObjectHideFlags: 0
